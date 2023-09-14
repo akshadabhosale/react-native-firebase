@@ -1,0 +1,7 @@
+1. this app will be clone of the e-commerce app.
+
+2. this app will consist of login page, add to cart , catergories bottom tab navigator
+
+3. First design some static UI then implement login system using firebase
+
+4. 
